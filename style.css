@@ -16,3 +16,27 @@ ul{
 h1{
 	font-family: "Helvetica Neue", sans-serif;
 }
+
+#special{
+	color:violet;
+}
+
+.animal{
+	height:65%;
+	width:65%;
+	}
+
+.building{
+	height:35%;
+	width:35%;
+}
+
+.list{
+	background-color:pink;
+}
+
+.author{
+	color:#520063;
+	text-transform:uppercase;
+	background-color:chartreuse;
+}
